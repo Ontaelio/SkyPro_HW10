@@ -1,7 +1,7 @@
 # SkyPro_HW10
 First Flask project
 
-##To run:
+## To run:
 
 ```
 shell
